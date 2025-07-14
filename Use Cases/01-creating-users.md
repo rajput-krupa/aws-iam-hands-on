@@ -8,3 +8,7 @@ I created two users: `yashraj` and `alex` using the AWS Management Console.
 3. Chose password settings and recorded temporary passwords
 4. Added tags for identification
 5. Skipped permissions (assigned later through group)
+
+# Screenshots for Creating users:
+<img width="2825" height="1546" alt="Screenshot 2025-07-13 171247" src="https://github.com/user-attachments/assets/346c3f08-1db5-4a4f-a182-461b0f4f7db5" />
+
