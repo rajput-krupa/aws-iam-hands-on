@@ -12,3 +12,6 @@ I created two users: `yashraj` and `alex` using the AWS Management Console.
 # Screenshots for Creating users:
 <img width="2825" height="1546" alt="Screenshot 2025-07-13 171247" src="https://github.com/user-attachments/assets/346c3f08-1db5-4a4f-a182-461b0f4f7db5" />
 
+
+<img width="2843" height="1545" alt="Screenshot 2025-07-13 171433" src="https://github.com/user-attachments/assets/04899538-1953-43f8-8044-814b5a89db7e" />
+
